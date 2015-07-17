@@ -42,13 +42,15 @@ angular.module('yourApp', ['ngUtilities'])
 
 ## List of directives
 
-+ isChecked
-+ crypt
-+ utilitiesSubmitButton
-+ utilitiesFieldGroup
-+ utilitiesForm
-+ hasGridElements
-+ gridElement
++ Work with forms and form fields
+  + isChecked
+  + crypt
+  + utilitiesSubmitButton
+  + utilitiesFieldGroup
+  + utilitiesForm
++ Order elements into the grid
+  + hasGridElements
+  + gridElement
 
 ## Release History
 + 1.0.0 - initial revision.
