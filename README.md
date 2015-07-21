@@ -56,7 +56,7 @@ angular.module('yourApp', ['ngGoodfellas'])
 + 1.0.0 - initial revision.
 
 ## Author
-Tomasz Górka <tomasz@gorka.org.pl>
+Tomasz Górka <http://tomasz.gorka.org.pl>
 
 ## License
 &copy; 2015 Luxia SAS <http://luxia.fr>
