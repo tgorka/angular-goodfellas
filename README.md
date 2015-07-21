@@ -1,4 +1,4 @@
-# angular-utilities
+# angular-goodfellas
 
 Utility filters, config, services and directives for use in angular 1.2.x
 
