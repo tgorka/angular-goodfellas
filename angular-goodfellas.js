@@ -2,8 +2,8 @@
  * Utility filters, config, services and directives for use in angular 1.2.x
  *
  * @version 1.0.0 - 17/07/2015
- * @company Luxia SAS
- * @author: Tomasz Gorka
+ * @company Luxia SAS <http://luxia.fr>
+ * @author: Tomasz Gorka <http://tomasz.gorka.org.pl>
  * @licence MIT License
  */
 
