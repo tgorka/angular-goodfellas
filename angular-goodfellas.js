@@ -3,7 +3,7 @@
  *
  * @version 1.0.0 - 17/07/2015
  * @company Luxia SAS <http://luxia.fr>
- * @author: Tomasz Gorka <tomasz@gorka.org.pl>
+ * @author: Tomasz Gorka <http://tomasz.gorka.org.pl>
  * @licence MIT License
  */
 
