@@ -4,12 +4,12 @@ Utility filters, config, services and directives for use in angular 1.2.x
 
 ## Install
 
-Copy angular-utilities.min.js into your static js file directory.
+Copy angular-goodfellas.min.js into your static js file directory.
 Load the script in your html head part.
 
-Add 'ngUtilities' into your angular module dependencies ex.
+Add 'ngGoodfellas' into your angular module dependencies ex.
 
-angular.module('yourApp', ['ngUtilities'])
+angular.module('yourApp', ['ngGoodfellas'])
 
 ## List of filters
 
@@ -56,9 +56,9 @@ angular.module('yourApp', ['ngUtilities'])
 + 1.0.0 - initial revision.
 
 ## Author
-Tomasz Górka
+Tomasz Górka <tomasz@gorka.org.pl>
 
 ## License
-&copy; 2015 Luxia SAS
+&copy; 2015 Luxia SAS <http://luxia.fr>
 
 MIT licensed.

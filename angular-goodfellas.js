@@ -7,7 +7,7 @@
  * @licence MIT License
  */
 
-angular.module('ngUtilities', [])
+angular.module('ngGoodfellas', [])
 
 /* FILTERS */
 
