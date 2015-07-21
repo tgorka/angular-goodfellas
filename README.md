@@ -54,6 +54,7 @@ angular.module('yourApp', ['ngGoodfellas'])
 
 ## Release History
 + 1.0.0 - initial revision.
++ 1.0.1 - name changing.
 
 ## Author
 Tomasz Górka <http://tomasz.gorka.org.pl>
